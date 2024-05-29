@@ -26,19 +26,19 @@ function App() {
     {
       No: 4,
       Name: 'Sikko',
-      Reactt: 10,
+      Reactt: 70,
       Javascript: 80
     }, 
     {
       No: 5,
       Name: 'Amii',
-      Reactt: 10,
+      Reactt: 75,
       Javascript: 80
     },
     {
       No: 6,
       Name: 'Thengo',
-      Reactt: 10,
+      Reactt: 79,
       Javascript: 80
     }
   ]);
